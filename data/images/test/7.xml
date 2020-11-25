@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>7.jpg</filename>
+	<path>F:\Desktop\Final resized\data\images\test\7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dengue_mosquito</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>44</ymin>
+			<xmax>620</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

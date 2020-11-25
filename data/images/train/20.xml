@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20.jpg</filename>
+	<path>F:\Desktop\Final resized\data\images\train\20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dengue_mosquito</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>179</ymin>
+			<xmax>525</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>
